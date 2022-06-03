@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing android applications and quick hacks.
 - 🎓 &nbsp; Studying Electrical and Electronics Engineering at University of Techonology and Education in Vietnam.
-- 💼 &nbsp; Working as a Android Developer at OnSky.ltd company.
+- 💼 &nbsp; Working as an Android Developer at OnSky.ltd company.
 - 🌱 &nbsp; Learning more about Andoird, React, Ios and Nodejs.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

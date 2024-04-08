@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing android applications and quick hacks.
 - 🎓 &nbsp; Studying Electrical and Electronics Engineering at University of Techonology and Education in Vietnam.
-- 💼 &nbsp; Working as an Android Developer at Nashtech Company.
-- 🌱 &nbsp; Learning more about Andoird, React, Ios and Nodejs.
+- 💼 &nbsp; Working as an Android Developer at S3Corp Company.
+- 🌱 &nbsp; Learning advance about Android Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -19,8 +19,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-  ![IOS](https://img.shields.io/badge/-333333?style=flat&logo=ios)
+  
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
@@ -29,8 +28,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
 

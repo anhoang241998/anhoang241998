@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing android applications and quick hacks.
 - 🎓 &nbsp; Studying Electrical and Electronics Engineering at University of Techonology and Education in Vietnam.
-- 💼 &nbsp; Working as an Android Developer at S3Corp Company.
+- 💼 &nbsp; Working as an Android Developer.
 - 🌱 &nbsp; Learning advance about Android Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

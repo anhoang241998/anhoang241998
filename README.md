@@ -1,10 +1,17 @@
-<h2> Hey there! I'm Nguyen Hoang An.</h2>
+<h1> Hey 👋, I'm Nguyen Hoang An!</h1>  
+
+<a href='https://www.linkedin.com/in/nguyen-hoang-an/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.facebook.com/an.nguyenhoang.10/'><img align='left' alt="twitter" src="./images/ic_facebook.svg" height='18px'/></a>  
+
+<br/>
+I'm a versatile Android Developer 📱, passionate about building robust and scalable mobile applications. I easily adapt to various roles, App Development 📱, Front End Web Development 🌐, or beginner-level Designing 🎨, depending on the project's needs. I thrive on exploring new tech stacks 💻 and leveraging them to create innovative solutions 🛠️. My goal is to craft seamless and engaging user experiences on the Android platfom.
+<br/>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing android applications and quick hacks.
-- 🎓 &nbsp; Studying Electrical and Electronics Engineering at University of Techonology and Education in Vietnam.
-- 💼 &nbsp; Working as an Android Developer.
+- 🎓 &nbsp; Studying Electrical and Electronics Engineering at University of Technology and Education in Vietnam.
+- 💼 &nbsp; Working as an professional **Android Developer**.
 - 🌱 &nbsp; Learning advance about Android Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -31,7 +38,15 @@
 
 <br/>
 
-![An's github stats](https://github-readme-stats.vercel.app/api?username=anhoang241998)
+<!-- ### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br> -->
 
 <br/>
 
